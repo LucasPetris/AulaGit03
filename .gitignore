@@ -1,3 +1,4 @@
 *.jar
 *.xml
 *.txt
+node_modules/
